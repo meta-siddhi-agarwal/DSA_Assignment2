@@ -110,9 +110,6 @@ public class CounsellingProcess {
                 }
 
             }
-
-            // Programs programObject = new Programs(programName, capacity);
-            // listOfPrograms.add(programObject);
         }
 
         return programsList;
